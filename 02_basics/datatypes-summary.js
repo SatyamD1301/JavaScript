@@ -37,3 +37,15 @@ const myObj={
 const myFunction=function(){
     console.log("Hello World");
 }
+
+//************************************ */
+
+//Stack(Primitive) Heap (Non-Primitive)
+
+
+/*
+hen using the satck wee only get the copy of the element so that change in copy does not affect the original 
+
+Buttttt when using heap we got the refrences   of the element so the change in one reflext at the main data 
+
+*/
