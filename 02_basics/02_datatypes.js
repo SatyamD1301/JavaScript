@@ -4,7 +4,7 @@
 
 // we must have to make our code readable
 
-// avascript automaticatilly removed spaces
+// Javascript automaticatilly removed spaces
 
 let name="Satyam" //=>string ""
 let age=18  //=>integer
